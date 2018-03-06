@@ -1,0 +1,10 @@
+# npm
+node_modules
+npm-debug.log*
+
+# vim files
+tags
+Session.vim
+
+# idea files
+.idea
